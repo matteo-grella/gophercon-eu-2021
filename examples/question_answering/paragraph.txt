@@ -1,0 +1,1 @@
+Go is a programming language designed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson to address criticism of other languages.
