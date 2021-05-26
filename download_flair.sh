@@ -27,7 +27,7 @@ cd "$models_path"
 d='https://dl.dropboxusercontent.com/s'
 
 # NER English (ONTONOTES)
-# download_model 'goflair-en-ner-ontonotes-fast-v0.4' "$d/a77mfbr1mvzqzcr/goflair-en-ner-ontonotes-fast-v0.4.tar.gz?dl=0"
+download_model 'goflair-en-ner-ontonotes-fast-v0.4' "$d/a77mfbr1mvzqzcr/goflair-en-ner-ontonotes-fast-v0.4.tar.gz?dl=0"
 
 # NER English (CONLL 2003)
 # download_model 'goflair-en-ner-conll03-v0.4' "$d/uf1jihxxb5lsyvy/goflair-en-ner-conll03-v0.4.tar.gz?dl=0"
