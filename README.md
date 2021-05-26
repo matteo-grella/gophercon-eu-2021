@@ -10,17 +10,17 @@ This repository contains those examples (and a few more) for integrating ML/NLP 
 
 Here is a list of available demos (each one has its own README):
 
-- Expression Graph
-- Linear Regression
-- Named Entities Recognition
-- Named Entities Recognition (gRPC)
-- Character Language Model
-- Masked Language Model
-- Question-Answering
-- Zero-Shot Text Classification
-- Cross-Lingual Text Similarity
-- Cross-Lingual Text Similarity (2)
-- Machine Translation
+- [Expression Graph](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/expression_graph)
+- [Linear Regression](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/linear_regression)
+- [Named Entities Recognition](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/named_entities_recognition)
+- [Named Entities Recognition (gRPC)](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/ner_grpc)
+- [Character Language Model](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/character_language_model)
+- [Masked Language Model](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/masked_language_model)
+- [Question-Answering](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/question_answering)
+- [Zero-Shot Text Classification](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/zero_shot_text_classification)
+- [Cross-Lingual Text Similarity](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/text_similarity)
+- [Cross-Lingual Text Similarity (2)](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/text_similarity2)
+- [Machine Translation](https://github.com/matteo-grella/gophercon-eu-2021/tree/main/examples/machine_translation)
 
 You **must** download the pre-trained neural models before you run the demos.
 
