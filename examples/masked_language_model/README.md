@@ -6,7 +6,7 @@ In short, MLM is a fill-in-the-blank task, where the objective is to use the con
 to try to predict what that masked word should be.
 
 You can experiment with more `[MASK]` tokens at the same time, and the model will generate the most likely substitution
-for each. Keep in mind that the more tokens are masked the less context is usable and therefore the accuracy may dro
+for each. Keep in mind that the more tokens are masked the less context is usable and therefore the accuracy may drop.
 
 Run this from the current directory:
 
